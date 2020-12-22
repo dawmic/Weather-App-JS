@@ -1,4 +1,4 @@
-# Weather-App-JS
+# Weather-App-JS :sunny::umbrella::cloud::snowflake::zap:
 OpenWeather API <br>
 HTML5 <br>
 CSS <br>
